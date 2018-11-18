@@ -1,0 +1,4 @@
+Lex	Type 	Reg	Direction	codes
+emphysema 	EMPHYSEMA 			Chest
+fibroemphysematous	FIBROEMPHYSEMATOUS			Chest
+emphysematous	EMPHYSEMATOUS			Chest
